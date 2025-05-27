@@ -78,10 +78,25 @@ const config: Config = {
             height: '0',
           },
         },
+
+        'pulse-custom': {
+          '0%, 100%': {
+            transform: 'scale(1)',
+            opacity: '1',
+          },
+          '50%': {
+            transform: 'scale(1.05)',
+            opacity: '0.8',
+          },
+        },
+
+
+
       },
       animation: {
         'accordion-down': 'accordion-down 0.2s ease-out',
         'accordion-up': 'accordion-up 0.2s ease-out',
+        'pulse-custom': 'pulse-custom 1.5s infinite',
       },
     },
   },
