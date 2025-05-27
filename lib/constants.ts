@@ -15,7 +15,7 @@ export const siteConfig = {
   address: "Rua Waldery Uchoa, 586 - Centro, Canindé - CE, 62700-000, Brasil",
   phone: "(85) 8154-1977",
   email: "opticabelavista2025@gmail.com",
-  openHours: "Segunda à Sábado: 8h às 18h",
+  openHours: "Segunda à Sábado: 8h às 17h",
   logo: "/lOGO-removebg-preview__2_-removebg-preview.png"
 };
 

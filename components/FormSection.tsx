@@ -78,7 +78,7 @@ Aguardando confirmação!`;
                 </div>
                 <div className="flex items-center">
                   <Clock className="h-5 w-5 mr-3" />
-                  <span>Das 8h às 18h</span>
+                  <span>Das 8h às 17h</span>
                 </div>
                 <div className="flex items-center">
                   <Phone className="h-5 w-5 mr-3" />
