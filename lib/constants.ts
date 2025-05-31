@@ -1,9 +1,29 @@
-import image1 from "../public/1.jpg";
-import image2 from "../public/3.jpg";
-import image3 from "../public/4.jpg";
-import image4 from "../public/5.jpg";
-import image5 from "../public/6.jpg";
-import image6 from "../public/7.jpg";
+import image1 from "../public/Armazons4.jpg";
+import image2 from "../public/Armazons1.jpg";
+import image3 from "../public/Armazons2.jpg";
+import image4 from "../public/Armazons3.jpg";
+import image5 from "../public/Armazons5.jpg";
+import image6 from "../public/Armazons6.jpg";
+import image7 from "../public/Armazons7.jpg";
+import image8 from "../public/Armazons8.jpg";
+import image9 from "../public/Armazons9.jpg";
+
+import cliente1 from "../public/Cliente1.jpg";
+import cliente2 from "../public/Cliente2.jpg";
+import cliente5 from "../public/Cliente5.png";
+import cliente6 from "../public/Cliente6.jpg";
+import cliente7 from "../public/Cliente7.jpg";
+import cliente8 from "../public/Cliente8.jpg";
+import cliente9 from "../public/Cliente9.jpg";
+import cliente10 from "../public/Cliente10.jpg";
+import cliente11 from "../public/Cliente11.jpg";
+import cliente12 from "../public/Cliente12.jpg";
+import cliente13 from "../public/Cliente13.jpg";
+import cliente14 from "../public/Cliente14.jpg";
+import cliente15 from "../public/Cliente15.jpg";
+import cliente16 from "../public/Cliente16.jpg";
+import cliente17 from "../public/Cliente17.jpg";
+import cliente18 from "../public/Cliente18.jpg";
 
 export const siteConfig = {
   name: "Óticas Bela Vista",
@@ -70,6 +90,28 @@ export const gallery = [
   image5,
   image6,
   image2,
+  image7,
+  image8,
+  image9,
+];
+
+export const clientes = [
+  cliente1,
+  cliente2,
+  cliente5,
+  cliente6,
+  cliente7,
+  cliente8,
+  cliente9,
+  cliente10,
+  cliente11,
+  cliente12,
+  cliente13,
+  cliente14,
+  cliente15,
+  cliente16,
+  cliente17,
+  cliente18,
 ];
 
 export const faq = [
